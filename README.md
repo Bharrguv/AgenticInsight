@@ -6,6 +6,11 @@ Built using **LangChain**, **Groq LLMs**, **Tavily Search**, **BeautifulSoup**, 
 
 ---
 
+## Screenshot
+<img width="1828" height="896" alt="Image" src="https://github.com/user-attachments/assets/3ee6326f-3820-45f3-96d8-8424333f7921" />
+<img width="1878" height="882" alt="Image" src="https://github.com/user-attachments/assets/c96bb760-7047-416a-8315-c97eed47bed3" />
+<img width="1787" height="858" alt="Image" src="https://github.com/user-attachments/assets/6c841b84-3a24-4014-965d-3cfd0dc6a422" />
+
 ## ✨ Features
 
 ### 🔍 Research Agent
